@@ -3,7 +3,7 @@
         "role": "arn:aws:iam::177042101352:role/ExampleGithubRole",
         "region": "us-east-1",
         "state_bucket":"aws-proton-terraform-bucket-177042101352"
-    }
+    },
     "sample-vpc-environment-template": {
         "role": "arn:aws:iam::177042101352:role/ExampleGithubRole",
         "region": "us-east-1",
